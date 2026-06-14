@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+torchvision
+librosa
+numpy
+pydantic
+python-multipart
+scipy
+opencv-python
+matplotlib
+scikit-learn
