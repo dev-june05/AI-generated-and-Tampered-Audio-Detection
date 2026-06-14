@@ -165,7 +165,7 @@ If you prefer to set up the project manually or are on macOS/Linux:
 #### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dev-june05/AI-generated-and-Tampered-Audio-Detection
 cd "DL Project"
 ```
 
